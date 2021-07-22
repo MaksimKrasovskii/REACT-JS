@@ -1,0 +1,15 @@
+.message {
+    text-align: center;
+    border: 1px solid;
+    margin: 200px;
+    margin-top: 10px;
+    background-color: rgb(75, 75, 128);
+color: cornsilk;
+}
+
+button {
+width: 100px;
+height: 50px;
+background-color: rgb(75, 75, 128);
+color: cornsilk;
+}
